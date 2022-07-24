@@ -39,5 +39,12 @@
         android:text="hoadeptrai"
         android:textSize="50dp"
         android:layout_below="@+id/C" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/E"
+        android:text="hoadeptrai1"
+        android:textSize="50dp"
+        android:layout_below="@+id/T" />
 
 </RelativeLayout>
